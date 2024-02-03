@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/pedro/Pessoal/eletronics/line_sensor/line_sensor/line_sensor.kicad_sch</source>
+    <date>ter 30 jan 2024 16:41:43</date>
+    <tool>Eeschema 7.0.10-7.0.10~ubuntu20.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Line Sensor</title>
+        <company/>
+        <rev>1</rev>
+        <date>2024-01-13</date>
+        <source>line_sensor.kicad_sch</source>
+        <comment number="1" value="Autor: Pedro Henrique Germano Silva"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C38141</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C38141"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d5f8871-14cd-44fc-bb2e-3ef886ec2304</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C38141</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C38141"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86e53788-a18e-49a3-b8b6-6d9de94b8e22</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C38141</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C38141"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4969588f-8e0f-49e9-909c-139a09ce567c</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C38141</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C38141"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4700d6c-c0a1-42bf-baee-9942a1e6e929</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f39b44d0-b905-4b37-85db-39bb460fb8c1</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7273aaf2-6d3d-4622-a6fb-2a19bff26bee</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c01f82f-0df5-4b5a-a732-83fb852c53fd</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x06_Socket</value>
+      <footprint>Connector_JST:JST_PH_B8B-PH-SM4-TB_1x08-1MP_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x09_Socket" description="Generic connector, single row, 01x09, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x09, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>acb44ac5-0d90-4576-b0f9-89d986755657</tstamps>
+    </comp>
+    <comp ref="Q101">
+      <value>DMG1012T</value>
+      <footprint>Package_TO_SOT_SMD:SOT-523</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/ds31783.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="DMG1012T" description="20V Vds, 0.63 Id, N-Channel MOSFET with ESD protection, SOT-523"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="20V Vds, 0.63 Id, N-Channel MOSFET with ESD protection, SOT-523"/>
+      <property name="ki_keywords" value="N-Channel MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8dd6ee15-80ca-413b-971d-856ff6f43c07</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17408</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17408"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76e317e2-c22b-4e1c-979a-fbbd3e08b69b</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d056247-a9a4-4d99-9b04-d0017d3bc5d8</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17408</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17408"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25e3e09d-b792-4353-a098-235c9da17b0b</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc52ea77-e996-41fd-9757-759bad52fd81</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d6eca46-172a-4387-a7c4-2d952ef54bc0</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42457912-da9d-43bd-926c-652da9b5ea36</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17408</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17408"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d4ce747-ba5c-45ef-a99b-4ccc0c682270</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCDC">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCDC" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a499d58e-712d-443a-9c0a-f35e0d9b4cf6</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17408</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17408"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fa407f7-cc13-4676-a113-9d892ce324cd</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f99712f9-e8b0-4e4c-be72-d22dc9702ca4</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17408</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17408"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb17181b-46e2-430d-9b68-6b6fa4534312</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd67511c-551d-4993-b0f9-453fbddeba60</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17408</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17408"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e593d1d-4886-4cfd-a225-45d80b2e7af6</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b1a9a1a-2b43-4c7e-9712-67cec4e8c546</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17408</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17408"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2eea17fa-4a4d-4a95-8727-62d1d91e5d81</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5589900-fab0-4ab8-8ae4-edd91b266376</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17408</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17408"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b9a5db6-bfb0-4b0b-87ee-d7bc6ce71df6</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f47b2fb0-46a7-49a8-b598-d8ceadc1e0de</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17408</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17408"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6243898-7eb1-4721-a7ee-14dee4fd25ee</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a74ea677-7256-46ae-accf-9b839b5cca73</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a983ff5c-7eda-4660-b313-032b2e5cb938</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17408</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17408"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28d50fca-0f1b-49db-840b-96b292ebcf84</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d436670d-5cf5-4dc8-93a0-8088b62a7d3b</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17408</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17408"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c08353d8-d9cd-4f77-a591-a511b125d37a</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17414</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17414"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8bcf0669-dd0a-417e-a826-9e026ba36cc8</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17513</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17513"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9a059bf-dd39-4c82-9060-72425a82415b</tstamps>
+    </comp>
+    <comp ref="R101">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17513</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17513"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1682f87-392f-4860-beb3-4e099aaae64c</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ITR8307</value>
+      <footprint>Custom:ITR8307_S18_TR8_B</footprint>
+      <datasheet>http://www.everlight.com/file/ProductFile/ITR8307.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C115037</field>
+      </fields>
+      <libsource lib="CUSTOM" part="ITR8307/S18/TR8(B)" description=""/>
+      <property name="LCSC" value="C115037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62be769b-e1f0-4b75-9fa3-abd791890840</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>ITR8307</value>
+      <footprint>Custom:ITR8307_S18_TR8_B</footprint>
+      <datasheet>http://www.everlight.com/file/ProductFile/ITR8307.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C115037</field>
+      </fields>
+      <libsource lib="CUSTOM" part="ITR8307/S18/TR8(B)" description=""/>
+      <property name="LCSC" value="C115037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57736c7c-63b6-4664-ac52-aecb7eb8ef50</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>ITR8307</value>
+      <footprint>Custom:ITR8307_S18_TR8_B</footprint>
+      <datasheet>http://www.everlight.com/file/ProductFile/ITR8307.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C115037</field>
+      </fields>
+      <libsource lib="CUSTOM" part="ITR8307/S18/TR8(B)" description=""/>
+      <property name="LCSC" value="C115037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bcf0cdc9-655e-48cf-a8b4-f08f77785077</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>ITR8307</value>
+      <footprint>Custom:ITR8307_S18_TR8_B</footprint>
+      <datasheet>http://www.everlight.com/file/ProductFile/ITR8307.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C115037</field>
+      </fields>
+      <libsource lib="CUSTOM" part="ITR8307/S18/TR8(B)" description=""/>
+      <property name="LCSC" value="C115037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ef908e9-08b2-4582-bcf0-4bff6534120e</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>ITR8307</value>
+      <footprint>Custom:ITR8307_S18_TR8_B</footprint>
+      <datasheet>http://www.everlight.com/file/ProductFile/ITR8307.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C115037</field>
+      </fields>
+      <libsource lib="CUSTOM" part="ITR8307/S18/TR8(B)" description=""/>
+      <property name="LCSC" value="C115037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e66307b-8d74-43ed-8e1d-f1bcb37c6e7d</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>ITR8307</value>
+      <footprint>Custom:ITR8307_S18_TR8_B</footprint>
+      <datasheet>http://www.everlight.com/file/ProductFile/ITR8307.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C115037</field>
+      </fields>
+      <libsource lib="CUSTOM" part="ITR8307/S18/TR8(B)" description=""/>
+      <property name="LCSC" value="C115037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c4353eb-0818-4656-9a03-cbc72a7cb44c</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>ITR8307</value>
+      <footprint>Custom:ITR8307_S18_TR8_B</footprint>
+      <datasheet>http://www.everlight.com/file/ProductFile/ITR8307.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C115037</field>
+      </fields>
+      <libsource lib="CUSTOM" part="ITR8307/S18/TR8(B)" description=""/>
+      <property name="LCSC" value="C115037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3df0df9c-6702-4b36-8d33-d7c91b1dd4ef</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>ITR8307</value>
+      <footprint>Custom:ITR8307_S18_TR8_B</footprint>
+      <datasheet>http://www.everlight.com/file/ProductFile/ITR8307.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C115037</field>
+      </fields>
+      <libsource lib="CUSTOM" part="ITR8307/S18/TR8(B)" description=""/>
+      <property name="LCSC" value="C115037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d001cc81-6a11-4fb8-9222-57a45465e5b4</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>ITR8307</value>
+      <footprint>Custom:ITR8307_S18_TR8_B</footprint>
+      <datasheet>http://www.everlight.com/file/ProductFile/ITR8307.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C115037</field>
+      </fields>
+      <libsource lib="CUSTOM" part="ITR8307/S18/TR8(B)" description=""/>
+      <property name="LCSC" value="C115037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c01a472-0c57-43c0-835a-dbee7b4a91fb</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>ITR8307</value>
+      <footprint>Custom:ITR8307_S18_TR8_B</footprint>
+      <datasheet>http://www.everlight.com/file/ProductFile/ITR8307.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C115037</field>
+      </fields>
+      <libsource lib="CUSTOM" part="ITR8307/S18/TR8(B)" description=""/>
+      <property name="LCSC" value="C115037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61435f57-d085-4a00-99a7-d62b888ed5ac</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>74HC4067PW</value>
+      <footprint>Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1808081233_Nexperia-74HC4067PW-118_C179326.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C179326</field>
+      </fields>
+      <libsource lib="CUSTOM" part="74HC4067PW" description=""/>
+      <property name="LCSC" value="C179326"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25d3c7b5-06e0-42b8-b087-2fb8ceeecd97</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>ITR8307</value>
+      <footprint>Custom:ITR8307_S18_TR8_B</footprint>
+      <datasheet>http://www.everlight.com/file/ProductFile/ITR8307.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C115037</field>
+      </fields>
+      <libsource lib="CUSTOM" part="ITR8307/S18/TR8(B)" description=""/>
+      <property name="LCSC" value="C115037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d27b4f57-19ce-47ad-a273-f61ce0ff496d</tstamps>
+    </comp>
+    <comp ref="U13">
+      <value>ITR8307</value>
+      <footprint>Custom:ITR8307_S18_TR8_B</footprint>
+      <datasheet>http://www.everlight.com/file/ProductFile/ITR8307.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C115037</field>
+      </fields>
+      <libsource lib="CUSTOM" part="ITR8307/S18/TR8(B)" description=""/>
+      <property name="LCSC" value="C115037"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="line_sensor.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a68cf46f-d9ef-4021-9665-784add419264</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="CUSTOM" part="74HC4067PW">
+      <docs>https://datasheet.lcsc.com/lcsc/1808081233_Nexperia-74HC4067PW-118_C179326.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74HC4067PW</field>
+        <field name="Footprint">Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1808081233_Nexperia-74HC4067PW-118_C179326.pdf</field>
+        <field name="LCSC">C179326</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COM" type="passive"/>
+        <pin num="2" name="I7" type="passive"/>
+        <pin num="3" name="I6" type="passive"/>
+        <pin num="4" name="I5" type="passive"/>
+        <pin num="5" name="I4" type="passive"/>
+        <pin num="6" name="I3" type="passive"/>
+        <pin num="7" name="I2" type="passive"/>
+        <pin num="8" name="I1" type="passive"/>
+        <pin num="9" name="I0" type="passive"/>
+        <pin num="10" name="S0" type="input"/>
+        <pin num="11" name="S1" type="input"/>
+        <pin num="12" name="GND" type="power_in"/>
+        <pin num="13" name="S3" type="input"/>
+        <pin num="14" name="S2" type="input"/>
+        <pin num="15" name="~{E}" type="input"/>
+        <pin num="16" name="I15" type="passive"/>
+        <pin num="17" name="I14" type="passive"/>
+        <pin num="18" name="I13" type="passive"/>
+        <pin num="19" name="I12" type="passive"/>
+        <pin num="20" name="I11" type="passive"/>
+        <pin num="21" name="I10" type="passive"/>
+        <pin num="22" name="I9" type="passive"/>
+        <pin num="23" name="I8" type="passive"/>
+        <pin num="24" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="CUSTOM" part="ITR8307/S18/TR8(B)">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ITR8307</field>
+        <field name="Footprint">Custom:ITR8307_S18_TR8_B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="C" type="open_collector"/>
+        <pin num="4" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x09_Socket">
+      <description>Generic connector, single row, 01x09, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J1</field>
+        <field name="Value">Conn_01x06_Socket</field>
+        <field name="Footprint">Connector_JST:JST_PH_B8B-PH-SM4-TB_1x08-1MP_P2.00mm_Vertical</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="MP" name="Pin_9" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Transistor_FET" part="DMG1012T">
+      <description>20V Vds, 0.63 Id, N-Channel MOSFET with ESD protection, SOT-523</description>
+      <docs>https://www.diodes.com/assets/Datasheets/ds31783.pdf</docs>
+      <footprints>
+        <fp>SOT?523*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">DMG1012T</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-523</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/ds31783.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="CUSTOM">
+      <uri>/home/pedro/.local/share/kicad/7.0/symbols/CUSTOM.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>/usr/share/kicad/symbols//Transistor_FET.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R101" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U11" pin="24" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="2" name="/COMM">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U11" pin="1" pinfunction="COM" pintype="passive"/>
+    </net>
+    <net code="3" name="/EN">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="U11" pin="15" pinfunction="~{E}" pintype="input"/>
+    </net>
+    <net code="4" name="/I1">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="C" pintype="open_collector"/>
+      <node ref="U11" pin="23" pinfunction="I8" pintype="passive"/>
+    </net>
+    <net code="5" name="/I2">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U11" pin="22" pinfunction="I9" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="C" pintype="open_collector"/>
+    </net>
+    <net code="6" name="/I3">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U11" pin="21" pinfunction="I10" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="C" pintype="open_collector"/>
+    </net>
+    <net code="7" name="/I4">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U11" pin="20" pinfunction="I11" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="C" pintype="open_collector"/>
+    </net>
+    <net code="8" name="/I5">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U11" pin="2" pinfunction="I7" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="C" pintype="open_collector"/>
+    </net>
+    <net code="9" name="/I6">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U11" pin="3" pinfunction="I6" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="C" pintype="open_collector"/>
+    </net>
+    <net code="10" name="/I7">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U11" pin="4" pinfunction="I5" pintype="passive"/>
+      <node ref="U7" pin="3" pinfunction="C" pintype="open_collector"/>
+    </net>
+    <net code="11" name="/I8">
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="U11" pin="5" pinfunction="I4" pintype="passive"/>
+      <node ref="U8" pin="3" pinfunction="C" pintype="open_collector"/>
+    </net>
+    <net code="12" name="/I9">
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U11" pin="6" pinfunction="I3" pintype="passive"/>
+      <node ref="U9" pin="3" pinfunction="C" pintype="open_collector"/>
+    </net>
+    <net code="13" name="/I10">
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U10" pin="3" pinfunction="C" pintype="open_collector"/>
+      <node ref="U11" pin="7" pinfunction="I2" pintype="passive"/>
+    </net>
+    <net code="14" name="/I11">
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="U11" pin="8" pinfunction="I1" pintype="passive"/>
+      <node ref="U12" pin="3" pinfunction="C" pintype="open_collector"/>
+    </net>
+    <net code="15" name="/I12">
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="U11" pin="9" pinfunction="I0" pintype="passive"/>
+      <node ref="U13" pin="3" pinfunction="C" pintype="open_collector"/>
+    </net>
+    <net code="16" name="/S0">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U11" pin="10" pinfunction="S0" pintype="input"/>
+    </net>
+    <net code="17" name="/S1">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U11" pin="11" pinfunction="S1" pintype="input"/>
+    </net>
+    <net code="18" name="/S2">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U11" pin="14" pinfunction="S2" pintype="input"/>
+    </net>
+    <net code="19" name="/S3">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U11" pin="13" pinfunction="S3" pintype="input"/>
+    </net>
+    <net code="20" name="Earth">
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J1" pin="MP" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="Q101" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="21" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q101" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="E" pintype="passive"/>
+      <node ref="U10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U10" pin="4" pinfunction="E" pintype="passive"/>
+      <node ref="U11" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="U12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U12" pin="4" pinfunction="E" pintype="passive"/>
+      <node ref="U13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U13" pin="4" pinfunction="E" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="E" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="E" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="E" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="E" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="E" pintype="passive"/>
+      <node ref="U7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U7" pin="4" pinfunction="E" pintype="passive"/>
+      <node ref="U8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U8" pin="4" pinfunction="E" pintype="passive"/>
+      <node ref="U9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U9" pin="4" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(Q101-G)">
+      <node ref="Q101" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R101" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(U1-A)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(U2-A)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(U3-A)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(U4-A)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(U5-A)">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(U6-A)">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(U7-A)">
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(U8-A)">
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U8" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(U9-A)">
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U9" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(U10-A)">
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U10" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(U12-A)">
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U12" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(U13-A)">
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="U13" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="36" name="unconnected-(U11-I12-Pad19)">
+      <node ref="U11" pin="19" pinfunction="I12" pintype="passive+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U11-I13-Pad18)">
+      <node ref="U11" pin="18" pinfunction="I13" pintype="passive+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U11-I14-Pad17)">
+      <node ref="U11" pin="17" pinfunction="I14" pintype="passive+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U11-I15-Pad16)">
+      <node ref="U11" pin="16" pinfunction="I15" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
